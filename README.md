@@ -30,7 +30,7 @@
 
 ```bash
 ┌──(solitude㉿cybersolitude)-[~/profile]
-└─$ cat about.txt
+└─$ cat about_me.txt
 
 • Cybersecurity enthusiast
 • Focused on vulnerability research and Bug Bounties
