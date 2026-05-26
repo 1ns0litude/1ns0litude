@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=20,24,26&text=solitude&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Bug%20Bounty%20%7C%20CTFs&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=14,18,24&text=solitude&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Bug%20Bounty%20%7C%20CTFs&descAlignY=55" width="100%"/>
 
 </div>
 
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://66.media.tumblr.com/a820dcfc128863b53d5041d985140d26/aabe55b6f2844f0e-7f/s540x810/457013407aa6e2fe3dbe7df2d73297e3f753cd69.gif" width="850" />
+  <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="850" />
 </div>
 
 ---
@@ -28,7 +28,7 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="850"/>
+  <img src="https://giffiles.alphacoders.com/220/220122.gif" width="850"/>
 </div>
 
 ## 🟣 About Me
@@ -52,3 +52,5 @@
 ---
 
 
+
+change the top gradient part to a gradient purple
