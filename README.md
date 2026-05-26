@@ -8,6 +8,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Web+Application+Security;Security+Researcher;CTFs;Hack+The+Planet;Always+Learning+Something+New" alt="Typing Animation" />
 </div>
 
+
+<div align="center">
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=14,18,24&text=solitude&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Bug%20Bounty%20%7C%20CTFs&descAlignY=55"
+  width="100%"
+  style="border: 3px solid #A855F7; border-radius: 18px; box-shadow: 0px 0px 25px #A855F7;"
+/>
+
+</div>
+
+
+
+
+
+#gif
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/0a/b8/ce/0ab8ce6d94dc4bd5183e953ad6ef797d.gif" width="850" />
 </div>
