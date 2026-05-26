@@ -26,6 +26,11 @@
 
 </div>
 
+
+<div align="center">
+  <img src="https://giffiles.alphacoders.com/220/220122.gif" width="850"/>
+</div>
+
 ## 🟣 About Me
 
 ```bash
@@ -46,6 +51,4 @@
 
 ---
 
-<div align="center">
-  <img src="https://giffiles.alphacoders.com/220/220122.gif" width="850"/>
-</div>
+
