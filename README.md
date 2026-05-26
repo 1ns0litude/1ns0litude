@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/lain.gif" width="850" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BsMWdqa240a2UwY3MxdXFmbWhscDQxeGRoNGZza3MwbmEwa2c4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fbox1ygIqnga5dLinz/giphy.gif" width="850" />
 </div>
 
 ---
