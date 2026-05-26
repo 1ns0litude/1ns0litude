@@ -9,18 +9,6 @@
 </div>
 
 
-<div align="center">
-
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=14,18,24&text=solitude&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Bug%20Bounty%20%7C%20CTFs&descAlignY=55"
-  width="100%"
-  style="border: 3px solid #A855F7; border-radius: 18px; box-shadow: 0px 0px 25px #A855F7;"
-/>
-
-</div>
-
-
-
 
 
 
