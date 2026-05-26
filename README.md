@@ -36,7 +36,7 @@
 • Focused on vulnerability research and Bug Bounties
 • Linux/NixOS customization addict
 • Building tools and breaking things to understand them
-- CTF Challenges
+• CTF Challenges
 
 ```
 
