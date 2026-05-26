@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Web+Application+Security;API+Security+Testing;Linux+%2F+Open+Source+Enthusiast;Reverse+Engineering;Always+Learning+Something+New" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Web+Application+Security;API+Security+Testing;Linux+%2F+Open+Source+Enthusiast;Hack+The+Planet;Always+Learning+Something+New" alt="Typing Animation" />
 </div>
 
 <div align="center">
